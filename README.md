@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-###
+
 
 <div align="center">
   <a href="https://www.linkedin.com/in/ardeshana-vasu/" target="_blank">
@@ -16,29 +16,29 @@
   </a>
 </div>
 
-###
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=VASU-ARDESHANA.VASU-ARDESHANA&"  />
 </div>
 
-###
+
 
 <h1 align="center">hey there 👋</h1>
 
-###
+
 
 <h3 align="left">👩‍💻  About Me</h3>
 
-###
+
 
 <p align="left">I'm Ardeshana Vasu from gujarat<br><br>- 🔭 I’m working as Android developer<br>- 📚 I'm currently learning kotlin<br>- ⚡ In my free time I play video games</p>
 
-###
+
 
 <h3 align="left">🛠 Language and tools</h3>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="kotlin logo"  />
@@ -60,17 +60,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
+
 
 <h3 align="left">🔥   My Stats :</h3>
 
-###
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=VASU-ARDESHANA&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VASU-ARDESHANA/VASU-ARDESHANA/output/pacman-contribution-graph-dark.svg">
@@ -78,4 +78,4 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/VASU-ARDESHANA/VASU-ARDESHANA/output/pacman-contribution-graph.svg">
 </picture>
 
-###
+
